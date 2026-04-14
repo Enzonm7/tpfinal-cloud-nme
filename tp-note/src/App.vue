@@ -4,8 +4,15 @@
 </script>
 <template>
     <header>
-    <p color="red">Nom : Enzo NZENGUE MAYILA</p>
+    <p class="name">Nom : Enzo NZENGUE MAYILA</p>
     <p>Date : {{ today }}</p>
     <p>Build : {{ buildId }}</p>
   </header>
 </template>
+
+<style scoped>
+.name{
+  color: bisque;
+  font-size: larger;
+}
+</style>

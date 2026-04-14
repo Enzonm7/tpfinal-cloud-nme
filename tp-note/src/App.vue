@@ -12,7 +12,7 @@
 
 <style scoped>
 .name{
-  color: yellow;
+  color: goldenrod;
   font-size: larger;
 }
 </style>

@@ -4,7 +4,7 @@
 </script>
 <template>
     <header>
-    <p>Nom : Enzo NZENGUE MAYILA</p>
+    <p color="red">Nom : Enzo NZENGUE MAYILA</p>
     <p>Date : {{ today }}</p>
     <p>Build : {{ buildId }}</p>
   </header>
